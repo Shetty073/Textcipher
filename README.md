@@ -1,6 +1,9 @@
 # Textcipher
 Python module for text based cipher(s)
 
+#### Installation
+`pip install Textcipher`
+
 #### List of available ciphers:
 * caesar Cipher (Shift Cipher)
 * more coming soon.....
