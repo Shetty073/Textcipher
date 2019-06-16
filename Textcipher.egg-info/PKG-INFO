@@ -1,13 +1,13 @@
 Metadata-Version: 2.1
-Name: Textciphers
+Name: Textcipher
 Version: 0.0.1
 Summary: A text encryption/decryption package
-Home-page: https://github.com/Shetty073/Ciphertext
+Home-page: https://github.com/Shetty073/Textcipher
 Author: Ashish Shetty
 Author-email: shetty073@gmail.com
 License: UNKNOWN
-Description: # Ciphertext
-        Python module for text cipher(s)
+Description: # Textcipher
+        Python module for text based cipher(s)
         
         #### List of available ciphers:
         * caesar Cipher (Shift Cipher)
@@ -17,7 +17,7 @@ Description: # Ciphertext
         * Caesar Cipher
         ```python
         
-        from Ciphertext.Cipher import Caesar
+        from Textcipher.Ciphers import Caesar
         
         # Example message
         msg = "A quick brown fox jumped over the lazy dog."

@@ -1,1 +1,1 @@
-name = "Textciphers"
+name = "Textcipher"

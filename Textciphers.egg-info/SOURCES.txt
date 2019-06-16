@@ -1,8 +1,0 @@
-README.md
-setup.py
-Textcipher/Ciphers.py
-Textcipher/__init__.py
-Textciphers.egg-info/PKG-INFO
-Textciphers.egg-info/SOURCES.txt
-Textciphers.egg-info/dependency_links.txt
-Textciphers.egg-info/top_level.txt
